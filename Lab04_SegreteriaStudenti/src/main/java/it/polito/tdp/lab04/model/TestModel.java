@@ -5,11 +5,10 @@ public class TestModel {
 	public static void main(String[] args) {
 
 		Model model = new Model();
-		
-		/*
-		 * 	Write here your test model
-		 */
-
+		System.out.println(model.getTuttiICorsi());
+		//System.out.println(model.nomeStudente(146101));
+	    //System.out.println(model.cognomeStudente(146101));
+	    
 	}
 
 }
